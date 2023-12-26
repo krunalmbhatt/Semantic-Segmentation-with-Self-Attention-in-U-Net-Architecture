@@ -14,3 +14,7 @@ The below results have been obtained from the model described above:
 ![](./train_val_loss_PA_MPA_MIoU.png)
 
 ## Output
+![](./Output/op_1.png)
+![](./Output/op_2.png)
+![](./Output/op_3.png)
+![](./Output/op_4.png)
